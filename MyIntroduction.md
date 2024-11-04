@@ -63,6 +63,7 @@
 <ol>
   <li><a href="https://bit.ly/4gWbyzY">Dashboard Making of an Online Grocery Store with Dummy Data</a></li>
   <li><a href="https://bit.ly/47XIZOE">Key Insight of Walmart's Beverage Section with the Help of Dummy Data</a></li>
+  <li><a href="https://bit.ly/4e8vwFe">Power BI Dashboard Creation with DAX - A Data Story</a></li>
 </ol>
 
 ###
